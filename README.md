@@ -53,7 +53,7 @@ Both grew alongside the original work of making **HEXSEED**, the Windows compute
 
 CareBloomOS pursued **the authored experience**: the characters, magic, fantasy, heartfelt interactions, visually rich world and playful desktop expression. **Mini ARK, later Journey**, increasingly pursued **the operational machinery**: provenance, context, permission, coordination, file placement, receipts and recovery. Their separation emerged through development; it should not be presented as a rigid division that existed at the very beginning. The precise origin of individual screenshot-cleanup workflows remains uncertain.
 
-For the engineering chronology and those evidence boundaries, see the [Journey repository](https://github.com/marloweg1-opal/Journey) and its ongoing [development-history documentation review](https://github.com/marloweg1-opal/Journey/pull/4). CareBloomOS's full creative history remains its own to document; Journey's Git history is not a substitute.
+For the engineering chronology and those evidence boundaries, see the [Journey repository](https://github.com/marloweg1-opal/Journey) and its ongoing [development-history documentation review](https://github.com/marloweg1-opal/Journey/pull/5). CareBloomOS's full creative history remains its own to document; Journey's Git history is not a substitute.
 
 **Journey helps preserve and orient the work. CareBloom gives that work a world to inhabit.** They inform each other; neither owns the other's identity.
 
