@@ -39,13 +39,21 @@ CareBloom isn't about escaping humanity. It is about imagining how we survive, c
 
 ## 🧭 CareBloomOS and Journey
 
-CareBloomOS and [Journey](https://github.com/marloweg1-opal/Journey) are **separate projects in the same broader creative and technical family**.
+CareBloomOS and [Journey](https://github.com/marloweg1-opal/Journey) are **separate projects in the same broader creative and technical family**. CareBloomOS is its **own family passion project**, with its own stories, canon, creative direction, assets and evolving technical experience. It is neither a Journey module nor a skin that Journey owns, and Journey is not a CareBloom-only program.
 
 **CareBloomOS** is the imaginative world and desktop experience: deeply specific, fantastical, characterful, emotional, and proudly overflowing with lore and color.
 
 **Journey** is a human-governed, project-neutral local AI coordination system for provenance, continuity, contextual organization, and reviewable action across a person's work. Journey's mission is *orientation, not domination*.
 
-CareBloom became Journey's first mature integration profile and an unusually demanding real-world test case: artwork, evolving character canon, interface assets, handoffs, and technical files all need to retain their relationships and history. Journey can help steward that complexity without becoming a CareBloom-specific system. CareBloom can benefit from Journey without surrendering its own voice or independence.
+CareBloom became Journey's first mature **documented integration profile** and an unusually demanding real-world test case: artwork, evolving character canon, interface assets, handoffs and technical files all need to retain their relationships and history. The published [Journey mapping example](https://github.com/marloweg1-opal/Journey/tree/main/examples/carebloom) shows one way CareBloom's Carestones can translate generic Journey functions without changing the underlying governance. **That example is a mapping, not a claim that every imagined integration has shipped.** Journey can help steward that complexity without becoming a CareBloom-specific system. CareBloom can benefit from Journey without surrendering its own voice or independence.
+
+### 🌱 How the two paths met
+
+Both grew alongside the original work of making **HEXSEED**, the Windows computer and its broader environment, more organized, functional, personal and expressive. The early experiments included scripts for moving downloads, handling screenshots, spotting duplicates and reducing everyday housekeeping. As the creative world and the growing operational complexity developed, the need for distinct responsibilities became clearer.
+
+CareBloomOS pursued **the authored experience**: the characters, magic, fantasy, heartfelt interactions, visually rich world and playful desktop expression. **Mini ARK, later Journey**, increasingly pursued **the operational machinery**: provenance, context, permission, coordination, file placement, receipts and recovery. Their separation emerged through development; it should not be presented as a rigid division that existed at the very beginning. The precise origin of individual screenshot-cleanup workflows remains uncertain.
+
+For the engineering chronology and those evidence boundaries, see the [Journey repository](https://github.com/marloweg1-opal/Journey) and its ongoing [development-history documentation review](https://github.com/marloweg1-opal/Journey/pull/5). CareBloomOS's full creative history remains its own to document; Journey's Git history is not a substitute.
 
 **Journey helps preserve and orient the work. CareBloom gives that work a world to inhabit.** They inform each other; neither owns the other's identity.
 
