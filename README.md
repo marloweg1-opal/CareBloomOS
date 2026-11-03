@@ -13,7 +13,7 @@ It is cute on purpose. It is spectacular on purpose. And beneath all that sparkl
 
 CareBloom imagines a computer that can be useful without becoming cold, and playful without becoming frivolous. Its realms are more than wallpapers; they express different ways to care, each through its own characters, environments, tools, and interactions.
 
-- 💖 **Heartstone:** visible care, healing, reassurance, practical support, and the dignity of being helped.
+- 💗 **Heartstone:** visible care, healing, reassurance, practical support, and the dignity of being helped.
 - 🌙 **Moonstone:** unseen care, intuition, preparation, protection, and navigating hidden systems.
 - 🍀 **Cloverstone:** growth, stewardship, abundance, grounded care, and tending what sustains us.
 - ☁️ **Cloudstone:** atmosphere, breath, weather, emotional climate, and room to move.
@@ -28,6 +28,14 @@ The Carestones are **mantles, not substitutes for the people who bear them**. Th
 CareBloomOS explores a layered Windows desktop experience through **Wallpaper Engine** for atmosphere and **Rainmeter** for functional interface elements, alongside custom assets, navigation concepts, CareRails, CareBadges, themed utility experiences, and character-driven interactions. The exact feature set is evolving; this repository is a home for the project's creative and technical development, not a claim that every imagined feature has shipped.
 
 The aim isn't to put a heart sticker on ordinary software. It's to let functionality, worldbuilding, accessibility, warmth, and delight inform one another. A tool can be genuinely helpful *and* make you smile.
+
+## 💗 Accessibility and meaningful participation
+
+CareBloomOS is meant to invite people into an experience, not assume everyone can access its default form. The current project has important limits: the interactive experience is not comprehensively accessibility-tested, and its visual and motion-rich concepts may require nonvisual, lower-motion, alternative-input, and other functional equivalents.
+
+**Seeing or recognizing a person's communication is not the same as enabling meaningful participation.** We describe what is available, who may still face barriers, and what future work could expand the experience, without treating the limitations of the program as limitations of people.
+
+Read [Accessibility, Care, and Meaningful Participation](docs/ACCESSIBILITY_AND_PARTICIPATION.md) for the project's present scope and future design commitments.
 
 ## 🌈 The philosophy beneath the magic
 
